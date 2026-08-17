@@ -179,3 +179,11 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# AI PDF Chatbot
+.env
+vector_db/
+chat_history.db
+*.db
+
+# Streamlit
+.streamlit/secrets.toml
