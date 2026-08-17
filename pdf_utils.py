@@ -24,4 +24,7 @@ def split_text(text):
 
     chunks = splitter.split_text(text)
 
-    return chunks
+    return chunk8282059121
+
+
+    
